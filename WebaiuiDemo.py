@@ -15,10 +15,10 @@ reload(sys)
 sys.setdefaultencoding('utf8')
 
 URL = "http://openapi.xfyun.cn/v2/aiui"
-APPID = "5d22ece3"
-API_KEY = "48e6bfeab50704540ff50a36d3b2933c"
+APPID = ""
+API_KEY = ""
 AUE = "raw"
-AUTH_ID = "2894c985bf8b1111c6728db79d3479ae"
+AUTH_ID = ""
 DATA_TYPE = "audio"
 SAMPLE_RATE = "16000"
 SCENE = "main_box"
